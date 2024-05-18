@@ -1,4 +1,4 @@
-package com.petros.efthymiou.dailypulse
+package com.joaoandrade.dailypulse
 
 class Greeting {
     private val platform: Platform = getPlatform()

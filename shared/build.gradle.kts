@@ -40,7 +40,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.petros.efthymiou.dailypulse"
+    namespace = "com.joaoandrade.dailypulse"
     compileSdk = 34
     defaultConfig {
         minSdk = 24
